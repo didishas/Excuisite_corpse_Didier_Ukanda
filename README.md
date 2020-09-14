@@ -13,3 +13,7 @@
 Orhan Nurkan is in.
 Philippe too
 ```
+
+Naomi stopped by,
+Just to say Hi,
+and Bye!
