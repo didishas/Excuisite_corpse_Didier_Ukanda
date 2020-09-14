@@ -44,3 +44,5 @@ Philippe too
 Naomi stopped by,
 Just to say Hi,
 and Bye!
+
+That was a great information.
