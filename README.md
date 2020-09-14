@@ -8,8 +8,8 @@
 
 > Then she saw something in the distance, or rather someone. It was the a sweet figure of Wayne Brabant.
 
-> Lisie gulped. She glanced at her own reflection. She was a glad, joyful, orange juice drinker with attractive face and calm hands. Her friends saw her as a squashed, spotless saint. Once, she had even helped a grieving toddler cross the road.
 
+<<<<<<< HEAD
 > But not even a glad person who had once helped a grieving toddler cross the road, was prepared for what Wayne had in store today.
 
 > The snow flurried like loving girafe, making Lisie supportive. Lisie grabbed a different bicycle that had been strewn nearby; she massaged it with her fingers.
@@ -34,4 +34,13 @@
 THE END
 
 > For privacy reasons, your creation will be removed from the web at 7:41am BST and later deleted from our server, unless you choose to publish it.
+=======
+```
+Orhan Nurkan is in.
+Philippe too
+```
+>>>>>>> e760117d44427466fab9ec988b86deaa8641e61e
 
+Naomi stopped by,
+Just to say Hi,
+and Bye!
